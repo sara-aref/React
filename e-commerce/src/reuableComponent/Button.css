@@ -1,0 +1,13 @@
+.product-details-btn {
+  cursor: pointer;
+  background-color: white;
+  border: 1px solid #109f17;
+  color: #109f17;
+  border-radius: 50px;
+  padding: 5px 25px;
+}
+
+.product-details-btn:hover {
+  color: white;
+  background-color: #109f17;
+}

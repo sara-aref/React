@@ -1,0 +1,38 @@
+.in-stock {
+  background-color: #109f17;
+}
+
+.out-of-stock {
+  background-color: red;
+}
+
+.stock {
+  position: absolute;
+  bottom: 25px;
+  right: 16px;
+  color: white;
+  padding: 2px 15px;
+  border-radius: 15px;
+}
+
+.btn {
+  position: absolute;
+  bottom: 25px;
+  left: 16px;
+}
+
+.product-price {
+  position: absolute;
+  top: 25px;
+  right: 15px;
+}
+
+.rating {
+  position: absolute;
+  bottom: 60px;
+  left: 16px;
+}
+
+.product-title {
+  cursor: pointer;
+}
